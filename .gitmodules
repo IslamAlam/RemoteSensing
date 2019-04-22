@@ -1,3 +1,6 @@
 [submodule "pretty-print-confusion-matrix"]
 	path = pretty-print-confusion-matrix
 	url = ../pretty-print-confusion-matrix.git
+[submodule "pretty"]
+	path = pretty
+	url = ../pretty-print-confusion-matrix.git
