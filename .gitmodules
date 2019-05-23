@@ -4,3 +4,6 @@
 [submodule "pretty"]
 	path = pretty
 	url = ../pretty-print-confusion-matrix.git
+[submodule "dea-notebooks"]
+	path = dea-notebooks
+	url = https://github.com/GeoscienceAustralia/dea-notebooks.git
